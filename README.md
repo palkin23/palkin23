@@ -1,8 +1,9 @@
 
 
+
 <div align="center">
   <a href="https://palkin-os.vercel.app/">
-    <img src="assets/palkinos-preview.gif" width="100%" alt="PalkinOS hologram startup and cosmic desktop. Open the interactive portfolio.">
+    <img src="assets/palkinos-preview.gif" width="100%" alt="PalkinOS interactive portfolio preview">
   </a>
 </div>
 
@@ -10,31 +11,40 @@
 
 **Computer Engineering Undergraduate | Exploring Machine Learning & Generative AI Engineering**
 
-**[Launch interactive PalkinOS ↗](https://palkin-os.vercel.app/)**
+B.Tech Computer Engineering student at Thapar Institute of Engineering and Technology (TIET), Patiala.
 
-## Technical skills
+Interested in building practical software applications, exploring machine learning concepts, and understanding how generative AI can be integrated into real-world systems.
 
-- **Programming** · Python, C++
-- **Web** · HTML, CSS, JavaScript
-- **Tools** · Git, GitHub, Jupyter Notebook
-- **Currently exploring** · Machine learning, large language models, embeddings, and retrieval-augmented generation
+**[Launch Interactive PalkinOS ↗](https://palkin-os.vercel.app/)**
 
-## Featured projects
+## Technical Skills
+
+- **Programming:** Python, C++
+- **Web Development:** HTML5, CSS3
+- **Development Tools:** Git, GitHub, VS Code, Jupyter Notebook
+- **AI-Assisted Development:** ChatGPT, Claude
+- **Currently Exploring:** Machine Learning, Large Language Models, Vector Embeddings, Retrieval-Augmented Generation (RAG)
+
+## Featured Projects
 
 ### [PalkinOS](https://palkin-os.vercel.app/)
 
-Interactive OS-inspired developer portfolio with a cinematic holographic startup, customizable desktop, terminal, project explorer, and GitHub activity integration.
+An interactive, operating-system-inspired developer portfolio designed to present technical skills, projects, and GitHub activity through a desktop-like interface.
+
+**Key Features:**
+- Cinematic holographic startup sequence and animated cosmic desktop.
+- Interactive desktop applications for exploring projects, skills, and personal information.
+- Terminal-inspired interface with command-based navigation.
+- Customizable wallpapers, accent colors, and desktop preferences.
+- GitHub activity integration for displaying development contributions.
+- Responsive interface with interactive UI components.
+
+**Technologies:** HTML, CSS, JavaScript, Vite
 
 [Live Demo](https://palkin-os.vercel.app/) · [Source Code](https://github.com/palkin23/Palkin-OS)
 
 ### [Mirai](https://github.com/palkin23/Mirai)
 
-Python-based market intelligence project analyzing demand patterns and seasonal trends in anime merchandise.
+A Python-based market intelligence and data analysis project focused on identifying demand patterns and seasonal trends in anime merchandise.
 
-### [DELULU-HQ](https://github.com/palkin23/DELULU-HQ)
-
-Self-care dashboard with mood tracking, journaling, and interactive wellness tools.
-
-### [Spotify UI Clone](https://github.com/palkin23/Spotify-UI-Clone)
-
-HTML and CSS recreation of a music streaming interface, focused on frontend layout and styling.
+**Key
