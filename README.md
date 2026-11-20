@@ -1,4 +1,4 @@
-[![PalkinOS hologram startup and cosmic desktop. Open the interactive portfolio.](assets/palkinos-preview.gif)](https://palkin-os.vercel.app/)
+
 
 <div align="center">
   <a href="https://palkin-os.vercel.app/">
