@@ -1,11 +1,10 @@
 
-
-
 <div align="center">
   <a href="https://palkin-os.vercel.app/">
     <img src="assets/palkinos-preview.gif" width="100%" alt="PalkinOS interactive portfolio preview">
   </a>
 </div>
+
 
 # Palkin Gupta
 
@@ -47,4 +46,55 @@ An interactive, operating-system-inspired developer portfolio designed to presen
 
 A Python-based market intelligence and data analysis project focused on identifying demand patterns and seasonal trends in anime merchandise.
 
-**Key
+**Key Features:**
+- Analyzes merchandise-related data to explore product demand and market behavior.
+- Examines seasonal patterns and changing interest across merchandise categories.
+- Uses data processing and analytical techniques to identify trends.
+- Presents findings to support data-informed merchandising decisions.
+
+**Focus Areas:** Python, Data Analysis, Market Intelligence
+
+[Live Demo](https://mirai-japan-hack.netlify.app/) · [Source Code](https://github.com/palkin23/Mirai)
+
+### [DELULU-HQ](https://github.com/palkin23/DELULU-HQ)
+
+An interactive self-care dashboard that brings together personal wellness activities in a single digital workspace.
+
+**Key Features:**
+- Mood-tracking interface for recording emotional check-ins.
+- Journaling functionality for personal reflection.
+- Interactive wellness tools designed around everyday self-care.
+- Dashboard-based navigation with a focus on accessibility and usability.
+- User-centered interface combining visual design and practical functionality.
+
+**Focus Areas:** Frontend Development, UI Design, Interactive Web Applications
+
+[Source Code](https://github.com/palkin23/DELULU-HQ)
+
+### [Spotify UI Clone](https://github.com/palkin23/Spotify-UI-Clone)
+
+A frontend development project recreating the visual structure of a music streaming platform, with emphasis on layout, styling, and interface composition.
+
+**Key Features:**
+- Music application layout with sidebar navigation and content sections.
+- Playlist and music-card components inspired by streaming interfaces.
+- Player-style interface elements and organized content presentation.
+- CSS-based styling for spacing, alignment, typography, and visual consistency.
+- Practice with reusable layout patterns and responsive design principles.
+
+**Technologies:** HTML5, CSS3
+
+[Source Code](https://github.com/palkin23/Spotify-UI-Clone)
+
+## Current Learning Focus
+
+- Strengthening Python programming and data analysis fundamentals.
+- Learning machine learning concepts and practical model development.
+- Exploring LLM applications, embeddings, and retrieval-augmented generation.
+- Building projects that combine software engineering with AI capabilities.
+
+## Connect
+
+- **GitHub:** [github.com/palkin23](https://github.com/palkin23)
+- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/palkin-gupta-78842137a/)
+- **Portfolio:** [PalkinOS](https://palkin-os.vercel.app/)
